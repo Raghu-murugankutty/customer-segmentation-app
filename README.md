@@ -1,5 +1,5 @@
 # Market Segmentation in Insurance
-
+### Streamlit application URL: https://customer-segmmentation-app.onrender.com
 ### Streamlit application
 ![image](https://user-images.githubusercontent.com/41443395/224965383-66d6ed94-f848-4f1f-b654-cf489c94c3b1.png)
 
