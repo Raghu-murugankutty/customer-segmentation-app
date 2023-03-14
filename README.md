@@ -3,6 +3,8 @@
 ### Streamlit application
 ![image](https://user-images.githubusercontent.com/41443395/224965383-66d6ed94-f848-4f1f-b654-cf489c94c3b1.png)
 
+### Model Output
+![image](https://user-images.githubusercontent.com/41443395/224971300-f0c415f9-f667-4e5e-ba4f-c9b042a3d3ba.png)
 
 ### Objective  :
 This case requires to develop a customer segmentation to give recommendations like saving plans, loans, wealth management, etc. on target customer groups.
